@@ -13,7 +13,7 @@ const style = {
   position: "fixed",
   overflow: "hidden",
   left: config.windows_offset_left,
-  top: "0px",
+  bottom: "0px",
   fontFamily: styles.fontFamily,
   lineHeight: styles.lineHeight,
   fontSize: styles.fontSize,
